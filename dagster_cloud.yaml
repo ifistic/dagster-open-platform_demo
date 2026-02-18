@@ -1,0 +1,4 @@
+locations:
+- code_source:
+    module_name: dagster_open_platform.definitions
+  location_name: dagster_open_platform_definitions
